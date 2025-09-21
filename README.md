@@ -60,3 +60,12 @@ RMDMCC, Hirschsprung’s Disease, congenital constipation, pediatric innovation,
 ## References
 1. Pediatric Surgery Texts – Hirschsprung’s Disease chapters (for conventional management background).  
 2. Clinical experience and innovation notes by Dr. Rajatsubhra Mukhopadhyay (Child Health Care Arambag, West Bengal, India).
+
+## 📌 Official Links & Resources  
+
+**Child Health Care Arambag (CHCA)** – *the Clinical Wing of* [**Sri Yoga Center Trust – Kunarpur (SYCT)**](https://www.wikidata.org/wiki/Q135898418)  
+
+- 🌐 **Website:** [CHCA – Official Page](https://www.sridoctor.com/child-health-care.php)  
+- 🏛 **Wikidata:** [Q135493189 – CHCA](https://www.wikidata.org/wiki/Q135493189)  
+- 📑 **Zenodo Archive:** [CHCA Research Outputs](https://zenodo.org/communities/chca)  
+- 🎥 **YouTube Channel:** [CHCA – Sridoctor Official](https://youtube.com/@sridoctor5525?si=R01iBu76ln-Xz5Wp)
