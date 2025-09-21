@@ -69,14 +69,20 @@ RMDMCC, Hirschsprung’s Disease, congenital constipation, pediatric innovation,
 - 🏛 **Wikidata:** [Q135493189 – CHCA](https://www.wikidata.org/wiki/Q135493189)  
 - 📑 **Zenodo Archive:** [CHCA Research Outputs](https://zenodo.org/communities/chca)  
 - 🎥 **YouTube Channel:** [CHCA – Sridoctor Official](https://youtube.com/@sridoctor5525?si=R01iBu76ln-Xz5Wp)
-......
 
-  ## 📜 License  
+---
 
-This work is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**.  
-You are free to **share** (copy and redistribute the material in any medium or format) and **adapt** (remix, transform, and build upon the material) for any purpose, even commercially, provided you give appropriate credit to:  
+## License
 
-**Dr. Rajatsubhra Mukhopadhyay (ORCID: [0000-0001-5658-8016](https://orcid.org/0000-0001-5658-8016))**,  
-Child Health Care Arambag (CHCA), the Clinical Wing of Sri Yoga Center Trust – Kunarpur (SYCT).  
+This work is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
 
-👉 Full legal text: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+You are free to:  
+- **Share** — copy and redistribute the material in any medium or format.  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.  
+
+Under the following terms:  
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  
+
+📖 [Read the full license here](https://creativecommons.org/licenses/by/4.0/)  
+
+© Dr. Rajatsubhra Mukhopadhyay, Child Health Care Arambag (CHCA), the Clinical Wing of Sri Yoga Center Trust – Kunarpur (SYCT).
